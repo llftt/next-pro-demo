@@ -68,7 +68,7 @@
     "react-custom-scrollbars": "^4.2.1",
     "react-dom": "^16.5.2",
     "react-lazyload": "^2.3.0",
-    "standard-version": "^4.4.0",
+    "standard-version": "^8.0.1",
     "typescript": "^3.6.4"
   },
   "config": {
